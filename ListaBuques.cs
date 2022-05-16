@@ -50,6 +50,9 @@ namespace EVA1
             foreach(Buque m2 in misBuques)
             {
                 if (m2.Codigo == m.Codigo)
+                {
+                    misBuques[x].nombre
+                }
             }
         }
     }
