@@ -109,7 +109,7 @@ namespace EVA1
 
         public void toString()
         {
-            Console.WriteLine("asdadasdsadsadasd");
+            Console.WriteLine(codigo, nombre, pais, cantidadContainers, cantidadContainersCargados, gastoTransporte, ListarContainers);
             ListarContainers();
         }
     }
